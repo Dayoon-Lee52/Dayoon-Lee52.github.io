@@ -41,17 +41,10 @@
         {% if site.cv == true %}
             {% if page.title != "CV" %}
                 <li class="item">
-                    <a class="link" href="{{ "/cv/" | relative_url }}">CV</a>
+                    <a class="link" href="{{ "/assets/CV_Dayoon_Lee.pdf" | relative_url }}">CV</a>
                 </li>
             {% endif %}
         {% endif %}
 
-        {% if site.contact == true %}
-            {% if page.title != "Contact" %}
-                <li class="item">
-                    <a class="link" href="{{ "/contact/" | relative_url }}">Contact</a>
-                </li>
-            {% endif %}
-        {% endif %}
     </ul>
 </nav>
