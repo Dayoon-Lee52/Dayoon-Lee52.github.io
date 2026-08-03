@@ -18,7 +18,7 @@ dark-theme: auto
 resume: true
 resume-external: false
 resume-url: assets/CV_Dayoon_Lee.pdf
-url: https://Dayoon-Lee52.github.io/indigo
+url: https://dayoon-lee52.github.io
 # your url: https://USERNAME.github.io
 
 #permalink: /:title/
@@ -36,7 +36,7 @@ disqus:
 #twitter: mytwitter
 #instagram: myinstagram
 #linkedin: mylinkedin
-github: https://Dayoon-Lee52.github.io/indigo
+github: Dayoon-Lee52
 email: da_yoon52@ewha.ac.kr
 
 #authors:
@@ -64,6 +64,8 @@ projects: true
 # if you don't need "about" or "blog", comment them out below
 about: true
 blog: true
+research: true
+publications: true
 
 # do you want to show the "read time" of the posts?
 read-time: true

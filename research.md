@@ -6,7 +6,7 @@ permalink: /research/
 
 ## Semi-Supervised Dimension Reduction
 
-![SSPFC overview]({{ site.url }}/assets/images/sspfc.png)
+![SSPFC overview]({{ "/assets/images/research-sspfc.webp" | relative_url }})
 
 This project develops sufficient dimension reduction methods
 that leverage both labeled and unlabeled observations.
@@ -19,8 +19,6 @@ Main topics include:
 - High-dimensional regularization
 
 ## Deconvolution Density Estimation
-
-![Deconvolution overview]({{ site.url }}/assets/images/deconvolution.png)
 
 This project studies nonparametric density estimation for
 mixed Euclidean and hyperspherical data observed with measurement error.

@@ -1,13 +1,10 @@
 ---
 title: About
 layout: page
----
----
-title: About
-layout: page
+permalink: /about/
 ---
 
-![Profile Image]({{ site.url }}/{{ site.picture }})
+![Profile Image]({{ site.picture | relative_url }})
 
 Hi! I am a Ph.D. student in Statistics at [University Name].
 
