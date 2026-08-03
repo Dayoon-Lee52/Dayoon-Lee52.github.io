@@ -1,0 +1,23 @@
+.hero {
+  min-height: 520px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+
+  background:
+    linear-gradient(
+      rgba(10, 20, 35, 0.58),
+      rgba(10, 20, 35, 0.68)
+    ),
+    url("../images/hero.webp") center / cover no-repeat;
+}
+
+.hero h1 {
+  color: white;
+  font-size: clamp(3rem, 7vw, 5rem);
+}
+
+.hero h1 span {
+  color: #9fd5e5;
+}
