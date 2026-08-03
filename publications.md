@@ -6,11 +6,11 @@ permalink: /publications/
 
 ## Papers
 
-### Semi-Supervised Principal Fitted Components [On review]
+### Semi-Supervised Principal Fitted Components [Under review]
 
 **Dayoon Lee**, **Jeong Min Jeon**, **Jae Keun Yoo**
 
-Manuscript, 2026
+Neurips 2026
 
 ---
 
