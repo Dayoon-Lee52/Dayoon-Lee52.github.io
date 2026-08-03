@@ -6,20 +6,16 @@ permalink: /publications/
 
 ## Papers
 
-### Semi-Supervised Principal Fitted Components
+### Semi-Supervised Principal Fitted Components [On review]
 
-**Dayoon Lee**, Coauthor Name
+**Dayoon Lee**, **Jeong Min Jeon**, **Jae Keun Yoo**
 
 Manuscript, 2026
-
-[Paper](PDF 링크) · [Code](GitHub 링크)
 
 ---
 
 ### Deconvolution Density Estimation on Mixed Euclidean–Hyperspherical Spaces
 
-**Dayoon Lee**, Coauthor Name
+**Dayoon Lee**, **Jae Keun Yoo**, **Jeong Min Jeon**
 
 Working Paper, 2026
-
-[Paper](PDF 링크)

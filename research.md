@@ -6,7 +6,6 @@ permalink: /research/
 
 ## Semi-Supervised Dimension Reduction
 
-![SSPFC overview]({{ "/assets/images/research-sspfc.webp" | relative_url }})
 
 This project develops sufficient dimension reduction methods
 that leverage both labeled and unlabeled observations.
